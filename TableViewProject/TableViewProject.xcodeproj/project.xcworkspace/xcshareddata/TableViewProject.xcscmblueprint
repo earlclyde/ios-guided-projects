@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3AD68DD173BB859B7EA6309D1120A8AF38F8FF31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3AD68DD173BB859B7EA6309D1120A8AF38F8FF31" : 0,
+    "D91F3A8049FDEB9C1F75B55C2460FC9F9DD52ADC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FC086E45-ED96-4455-9184-B395A8D8374B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3AD68DD173BB859B7EA6309D1120A8AF38F8FF31" : "ios-guided-projects\/",
+    "D91F3A8049FDEB9C1F75B55C2460FC9F9DD52ADC" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TableViewProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TableViewProject\/TableViewProject.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/earlclyde\/ios-guided-projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AD68DD173BB859B7EA6309D1120A8AF38F8FF31"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/earlclyde\/module7.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D91F3A8049FDEB9C1F75B55C2460FC9F9DD52ADC"
+    }
+  ]
+}
